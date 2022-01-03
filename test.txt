@@ -1,2 +1,0 @@
-Adding test file to check if GIT SCM polling is working.
-Updated 
